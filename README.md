@@ -1,4 +1,4 @@
-# Its my first Android-project => Its bad, please no use this code
+# Its my first Android-project => Its have really bad code base, please no use this code
 Simple stopwatch for my needs. Right now realized:
 1. Stopwatch
 2. Activation/deactivation on volume button
